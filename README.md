@@ -2,6 +2,8 @@
 
 Aware’s Knomi® platform enables secure and convenient password-free authentication using face and voice biometrics. Forgerock customers can install the Aware Knomi Authentication Node to incorporate world-class, spoof-resistant biometrics to their authentication trees.
 
+Please contact [Rob Brawders](mailto:brawders@aware.com) if you would like to try out the integration, and support@aware.com if you need any additional help.
+
 ## About Aware
 Aware (www.aware.com) is a leading global provider of software products and solutions for biometric identification and authentication. Aware’s products include complete biometric software solutions as well as the modular components used to build them: SDKs and applications for enrollment; fingerprint, face, iris, and voice matching algorithms; mobile biometric capture and authentication software; a biometric workflow and middleware platform, and a fully-scalable ABIS. These products fulfill critical biometric functionality for applications in financial services, enterprise security, healthcare, human resources, citizen ID, border management, law enforcement, defense, and intelligence. Learn more about Aware on [Twitter](https://twitter.com/AwareBiometrics) and [LinkedIn](https://www.linkedin.com/company/aware-inc.).
 
